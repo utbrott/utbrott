@@ -13,6 +13,7 @@
 # Web Technologies
 
 Currently using:
+    
 ![JavaScript](https://img.shields.io/badge/javascript-171717?style=for-the-badge&logo=javascript&logoColor=f7DF1e)
 ![TypeScript](https://img.shields.io/badge/typescript-3178c6?style=for-the-badge&logo=typescript&logoColor=fafafa)
 
@@ -22,6 +23,7 @@ Currently using:
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=fafafa)
 
 Learning:
+    
 ![Go](https://img.shields.io/badge/go-00ADD8?style=for-the-badge&logo=go&logoColor=fafafa)
 
 # Embedded Technologies
