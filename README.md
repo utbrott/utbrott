@@ -1,15 +1,19 @@
-# Hello there 👋
-I'm
-- Student - M.Sc. Electrical Engineering, specializing in Embedded Systems. Working with C, C++,
-- Self-taught Developer - Working with TypeScript and JavaScript, learning Go and Rust,
-- Enthusiast: Currently experimenting with Linux, Neovim and trying to build cool, useful stuff!
+# Hi there,
+
+Welcome to my GitHub profile 👋
+
+I am a:
+- Student: M.Eng. Electrical Engineering major, specializing in Embedded Systems @ WUT
+- Self-taught Developer: Working with TypeScript and Embedded C/C++
+  - I'm the creator of [SensoAtlas](https://sensoatlas.vercel.app) - a tool for learning about sensors and transducers online
+- Learner: Experimenting with few new languages, currently Go and Rust
+- Enthusiast: Trying to get started with Linux and [Neovim](https://github.com/neovim/neovim)
 
 ## Techstack:
 
 ### Currently using:
 
 #### Web technologies
-![JavaScript](https://img.shields.io/badge/javascript-262626?style=for-the-badge&logo=javascript&logoColor=f7DF1e)
 ![TypeScript](https://img.shields.io/badge/typescript-3178c6?style=for-the-badge&logo=typescript&logoColor=fafafa)
 
 ![Next.js](https://img.shields.io/badge/Next.js-262626?style=for-the-badge&logo=nextdotjs&logoColor=fafafa)
@@ -18,7 +22,7 @@ I'm
 
 #### Embedded technologies
 ![C](https://img.shields.io/badge/Embedded%20c-262626?style=for-the-badge&logo=c&logoColor=a8b9cc)
-![C++](https://img.shields.io/badge/Embedded%20C++-262626?style=for-the-badge&logo=cplusplus&logoColor=00599C)
+![C++](https://img.shields.io/badge/Embedded%20C++-262626?style=for-the-badge&logo=cplusplus&logoColor=a8b9cc)
 
 ![STM32](https://img.shields.io/badge/STM32-03234b?style=for-the-badge&logo=stmicroelectronics&logoColor=fafafa)
 ![Arduino](https://img.shields.io/badge/Arduino-00979d?style=for-the-badge&logo=arduino&logoColor=fafafa)
@@ -26,6 +30,7 @@ I'm
 
 ### Learning:
 
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=fafafa)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=fafafa)
+
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=fafafa)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=fafafa)
