@@ -5,8 +5,8 @@ Welcome to my GitHub profile 👋
 I am a:
 - Student: M.Eng. Electrical Engineering major, specializing in Embedded Systems @ WUT
 - Self-taught Developer: Working with TypeScript and Embedded C/C++
-  - I'm the creator of [SensoAtlas](https://sensoatlas.vercel.app) - a tool for learning about sensors and transducers online
-- Learner: Experimenting with few new languages, currently Go and Rust
+    - I'm the creator of [SensoAtlas](https://sensoatlas.vercel.app) - and app designed and built to assist in learing about various sensors and transducers
+- Learner: Experimenting with few new technologies and languages, currently Go and Rust
 - Enthusiast: Trying to get started with Linux and [Neovim](https://github.com/neovim/neovim)
 
 ## Techstack:
@@ -31,6 +31,7 @@ I am a:
 ### Learning:
 
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=fafafa)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=fafafa)
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=fafafa)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=fafafa)
