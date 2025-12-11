@@ -3,7 +3,7 @@
 Welcome to my GitHub profile 👋
 
 I am a:
-- Student: M.Eng. Electrical Engineering major, specializing in Embedded Systems @ WUT
+- Engineer: M.Eng. in Electrical Engineering, specializing in Embedded Systems, working as Electronics Engineer
 - Self-taught Developer: Working with TypeScript and Embedded C/C++
     - I'm the creator of [SensoAtlas](https://sensoatlas.vercel.app) - an app designed and built to assist in learing about various sensors and transducers
 - Learner: Experimenting with few new technologies and languages, currently Go, Rust and Qt
