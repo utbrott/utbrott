@@ -35,3 +35,4 @@ I am a:
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=fafafa)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=fafafa)
+![Rust](https://img.shields.io/badge/Qt-000000?style=for-the-badge&logo=qt&logoColor=fafafa)
